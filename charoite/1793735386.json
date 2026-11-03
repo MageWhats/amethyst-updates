@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1793744098,
+    "type": "unofficial",
+    "version": "2026.11.03",
+    "files": [
+      {
+        "filename": "amethyst-charoite-20261103-2214-incremental.zip",
+        "sha256": "566912d93ff59561274bfecae91e3f7499bd684418ef5a1f36f716aa0f9939e2",
+        "size": 252104,
+        "url": "https://github.com/MageWhats/amethyst-updates/releases/download/v20261103-2214/amethyst-charoite-20261103-2214-incremental.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:4653:216871,payload.bin:4653:243961,payload_properties.txt:248672:152,apex_info.pb:2643:1475,care_map.pb:4165:441,metadata:69:797,metadata.pb:934:1661                "
+      }
+    ]
+  }
+]
